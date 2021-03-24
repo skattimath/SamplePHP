@@ -1,4 +1,4 @@
-
+#Test
 <?php include "../inc/dbinfo.inc"; ?>    
 <html> 
 <body>
