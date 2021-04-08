@@ -1,6 +1,6 @@
 #Test############# 1 2 3 4 5 6 7 8 9 10 11 12 - Set PINK
 <?php include "../inc/dbinfo.inc"; ?>    
-<html> 
+<html>  
 #<body>
 <body style="background-color:pink">
 <h1>Sample page</h1>
