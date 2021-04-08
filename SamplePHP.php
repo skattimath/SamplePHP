@@ -30,7 +30,7 @@
   <table border="0">
     <tr>
       <td>NAME</td>
-      <td>ADDRESS</td>
+      <td>ADDRESS</td> 
     </tr>
     <tr>
       <td>
