@@ -1,8 +1,8 @@
-#Test############# 1 2 3 4 5 6 7 8 9 10 11 12 - Set PINK
+#------------->  Set Green
 <?php include "../inc/dbinfo.inc"; ?>     
 <html>   
 #<body>
-<body style="background-color:pink">
+<body style="background-color:green">
 <h1>Sample page</h1>  
 <?php
 
