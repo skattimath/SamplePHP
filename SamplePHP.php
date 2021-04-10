@@ -29,7 +29,7 @@
 <form action="<?PHP echo $_SERVER['SCRIPT_NAME'] ?>" method="POST">
   <table border="0">
     <tr>
-      <td>NAME</td>
+      <td>NAME</td> 
       <td>ADDRESS</td> 
     </tr>
     <tr>
