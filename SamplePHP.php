@@ -31,7 +31,7 @@
       <td>NAME</td>
       <td>ADDRESS</td>
     </tr> 
-    <tr>
+    <tr> 
       <td>
         <input type="text" name="NAME" maxlength="45" size="30" />
       </td>
