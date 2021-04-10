@@ -2,7 +2,7 @@
 <?php include "../inc/dbinfo.inc"; ?>    
 <html> 
 <body style="background-color:white">
-<h1>Sample page</h1>
+<h1>Sample page</h1> 
 <?php
 
   /* Connect to MySQL and select the database. */
