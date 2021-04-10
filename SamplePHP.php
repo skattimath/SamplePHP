@@ -1,8 +1,8 @@
-#------------->  Set Green
+#------------->  Set white
 <?php include "../inc/dbinfo.inc"; ?>     
 <html>   
 #<body>
-<body style="background-color:green">
+<body style="background-color:white">
 <h1>Sample page</h1>  
 <?php
 
