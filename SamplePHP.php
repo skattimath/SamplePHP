@@ -1,9 +1,8 @@
-#------------->  Set white
-<?php include "../inc/dbinfo.inc"; ?>     
-<html>   
-#<body>
+
+<?php include "../inc/dbinfo.inc"; ?>    
+<html> 
 <body style="background-color:white">
-<h1>Sample page</h1>  
+<h1>Sample page</h1>
 <?php
 
   /* Connect to MySQL and select the database. */
@@ -29,8 +28,8 @@
 <form action="<?PHP echo $_SERVER['SCRIPT_NAME'] ?>" method="POST">
   <table border="0">
     <tr>
-      <td>NAME</td> 
-      <td>ADDRESS</td> 
+      <td>NAME</td>
+      <td>ADDRESS</td>
     </tr>
     <tr>
       <td>
