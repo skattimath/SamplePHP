@@ -1,7 +1,7 @@
 
 <?php include "../inc/dbinfo.inc"; ?>    
 <html> 
-<body style="background-color:white">
+<body style="background-color:yallow">
 <h1>Sample page</h1> 
 <?php
 
