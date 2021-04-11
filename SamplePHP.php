@@ -1,5 +1,5 @@
 
-<?php include "../inc/dbinfo.inc"; ?>    
+<?php include "../inc/dbinfo.inc"; ?>     
 <html> 
 <body style="background-color:yallow">
 <h1>Sample page</h1> 
