@@ -1,8 +1,8 @@
 
 <?php include "../inc/dbinfo.inc"; ?>
 <html>
-<body>
-/* <body style="background-color:green"> */
+#<body>
+<body style="background-color:white">
 
 <h1>Sample page - Demo POC</h1>
 <?php
