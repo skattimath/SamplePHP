@@ -1,8 +1,8 @@
 
 <?php include "../inc/dbinfo.inc"; ?>
 <html>
-<body>
-<h1>Sample page</h1>
+<body bgcolor="green">>
+<h1>Sample page - Demo POC</h1>
 <?php
 
   /* Connect to MySQL and select the database. */
