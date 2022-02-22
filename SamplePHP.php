@@ -1,8 +1,8 @@
 
-<?php include "../inc/dbinfo.inc"; ?>     
-<html> 
-<body style="background-color:yellow">
-<h1>Sample page</h1> 
+<?php include "../inc/dbinfo.inc"; ?>
+<html>
+<body>
+<h1>Sample page</h1>
 <?php
 
   /* Connect to MySQL and select the database. */
@@ -30,8 +30,8 @@
     <tr>
       <td>NAME</td>
       <td>ADDRESS</td>
-    </tr> 
-    <tr> 
+    </tr>
+    <tr>
       <td>
         <input type="text" name="NAME" maxlength="45" size="30" />
       </td>
@@ -119,4 +119,5 @@ function TableExists($tableName, $connection, $dbName) {
   return false;
 }
 ?>                        
+                
                 
