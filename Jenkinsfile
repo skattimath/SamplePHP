@@ -14,8 +14,8 @@ pipeline {
            // Push code to apache server
 				sh '''#!/bin/bash
 						pwd
-						scp /var/lib/jenkins/workspace/cicd/inc/dbinfo.inc ec2-user@172.31.10.26:/var/www/inc/.
-						scp /var/lib/jenkins/workspace/cicd/SamplePHP.php ec2-user@172.31.10.26:/var/www/html/.
+						scp /var/lib/jenkins/workspace/poc/inc/dbinfo.inc ec2-user@172.31.10.26:/var/www/inc/.
+						scp /var/lib/jenkins/workspace/poc/SamplePHP.php ec2-user@172.31.10.26:/var/www/html/.
 						echo "Build Transfered Succesfully"
 						'''
 						
